@@ -101,3 +101,94 @@ header {
 .bandergus-image {
     align-self: flex-end;
 }
+
+.gus-facts {
+    padding: 52px 0 96px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.gus-title {
+    color: #181D1F;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 100px;
+    margin: 16px 0;
+}
+
+.gus-descr {
+    color: #181D1F;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    width: 875px;
+}
+
+.gus-facts-container {
+    width: 1170px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.gus-facts-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.gus-facts-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.gus-facts-title {
+    color: #181D1F;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 24px;
+    margin: 12px 0 32px 0;
+}
+
+.gus-facts-descr {
+    color: #181D1F;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    width: 320px;
+}
+
+.victory-bgd {
+    background: linear-gradient(90deg, #FFFFFF 0%, #D3EEFF 100%);
+    width: 1170px;
+    padding: 72px 0;
+    margin-bottom: 72px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.victory-footer {
+    display: flex;
+    justify-content: center;
+}
+
+.victory-title {
+    color: #181D1F;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 100px;
+    margin: 16px 0;
+}
+
+.victory-descr {
+    color: #181D1F;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    width: 875px;   
+}
